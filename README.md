@@ -16,9 +16,6 @@
 * LightGBM
 * CatBoost
 
-## EDA
-
-
 ## 분석 및 분석결과
 ### 1) Logistic Regression
 * Pre-Processing
