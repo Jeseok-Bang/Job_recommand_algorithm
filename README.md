@@ -73,7 +73,7 @@
 * 분석
   * CatBoost
     * F1-Score : 0.6429228645913203
-  * CatBoost + Permutation Importance * Hyper Parameter Tuning
+  * CatBoost + Permutation Importance + Hyper Parameter Tuning
     * F1-Score : 0.670941337787087
 ### 결과
 * F1-Score가 가장 높은 CatBoost 모델 선택
