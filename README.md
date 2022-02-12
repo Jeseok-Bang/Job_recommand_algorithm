@@ -72,11 +72,11 @@
     * Permutation Importance
 * 분석
   * CatBoost
-    * F1-Score : 0.6429228645913203
+    * F1-Score : 0.6423694567600954
   * CatBoost + Permutation Importance + Hyper Parameter Tuning
-    * F1-Score : 0.670941337787087
+    * F1-Score : 0.6713067911424406
 ### 결과
 * F1-Score가 가장 높은 CatBoost 모델 선택
 * train을 K-fold한 값의 평균을 구하다 보니 예측값의 극단값이 작아짐
-  * 임계값을 조정하여 최적값 설정 : 0.379
-* 대회 결과 : 약 70.2의 점수를 얻
+  * 임계값을 조정하여 최적값 설정 : 0.362
+* 대회 결과 : 약 70.2의 점수를 얻음
