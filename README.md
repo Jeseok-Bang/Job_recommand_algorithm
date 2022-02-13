@@ -16,6 +16,9 @@
 * LightGBM
 * CatBoost
 
+## 분석 프로세스
+![잡케어 계획](https://user-images.githubusercontent.com/53997054/153756380-8cec8931-1793-4fac-992d-9937995ee1ab.png)
+
 ## 분석 및 분석결과
 ### 1) Logistic Regression
 * Pre-Processing
